@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(115, 255, 0);
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.main-section{
+    overflow: hidden;
+}
+.left-sidebar{
+    background-color: coral;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    float: left;
+    border-radius: 8px;
+}
+
+.center-section{
+    background-color: rgb(3, 7, 3);
+    width: 60%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    align-items: center;
+    border-radius: 8px;
+    
+
+}
+.right-sidebar{
+    background-color: coral;
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    float: left;
+    border-radius: 8px;
+
+}
+
+.center-first{
+    background-color: yellow;
+    height: 100px;
+    width: 96%;
+    margin: 5px;
+    border-radius: 5px; 
+}
+.center-second{
+    background-color: turquoise;
+    height: 190px;
+    width: 96%;
+    margin: 5px;
+    border-radius: 5px;
+    color: white;
+    overflow: hidden;
+}
+.center-third{
+    background-color: springgreen;
+    height: 180px;
+    width: 96%;
+    margin: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    color: white;
+}
+
+.cs-first{
+    background-color: rgb(15, 100, 93);
+    width: 22%;
+    height: 150px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.cs-second{
+    background-color: rgb(110, 14, 110);
+    width: 22%;
+    height: 150px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.cs-third{
+    background-color: rgb(57, 46, 128);
+    width: 22%;
+    height: 150px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.cs-fourth{
+    background-color: rgb(139, 36, 18);
+    width: 22%;
+    height: 150px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+
+
+.ct-first{
+    background-color: rgb(79, 83, 26);
+    height: 100px;
+    width: 22%;
+    margin: 4px;
+    float: left;
+    border-radius: 8px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.ct-second{
+    background-color: rgb(134, 10, 35);
+    height: 100px;
+    width: 22%;
+    margin: 4px;
+    float: left;
+    border-radius: 8px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.ct-third{
+    background-color: rgb(6, 83, 6);
+    height: 100px;
+    width: 22%;
+    margin: 4px;
+    float: left;
+    border-radius: 8px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.ct-fourth{
+    background-color: rgb(26, 44, 44);
+    height: 100px;
+    width: 22%;
+    margin: 4px;
+    float: left;
+    border-radius: 8px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+
+footer{
+    background-color: chartreuse;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+
+
+
+
